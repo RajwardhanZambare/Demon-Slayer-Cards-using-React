@@ -77,15 +77,6 @@ src/
  └─ styles.css
 ```
 
----
-
-## 📸 Screenshot
-
-```
-<img src="c:\Users\Rajwardhan\Pictures\Screenshots\Screenshot 2026-01-05 193415.png"></img>
-```
-
----
 
 ## 📥 Image Credits
 
