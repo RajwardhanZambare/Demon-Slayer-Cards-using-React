@@ -1,16 +1,110 @@
-# React + Vite
+# 🗡️ Demon Slayer Character Cards (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React.js web app that displays profile cards for characters from **Demon Slayer: Kimetsu no Yaiba**.  
+The collection includes **all nine Hashira**, plus **Tanjiro Kamado, Zenitsu Agatsuma, and Inosuke Hashibira**.
 
-Currently, two official plugins are available:
+Each card shows:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🖼️ Profile image  
+- 👤 Name  
+- 🎂 Age  
+- 🌬️ Breathing Style  
+- 🏅 Rank  
+- ⬇️ Download button
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Built with **React.js (functional components + props)**
+- Responsive and clean UI  
+- Gradient card backgrounds  
+- Structured character data stored in an array  
+- Reusable Card component  
+- Simple and lightweight
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Characters Included
+
+### Hashira
+- Giyu Tomioka — Water Breathing  
+- Shinobu Kocho — Insect Breathing  
+- Kyojuro Rengoku — Flame Breathing  
+- Tengen Uzui — Sound Breathing  
+- Mitsuri Kanroji — Love Breathing  
+- Muichiro Tokito — Mist Breathing  
+- Gyomei Himejima — Stone Breathing  
+- Sanemi Shinazugawa — Wind Breathing  
+- Obanai Iguro — Serpent Breathing  
+
+### Main Trio
+- Tanjiro Kamado — Sun Breathing  
+- Zenitsu Agatsuma — Thunder Breathing  
+- Inosuke Hashibira — Beast Breathing  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **JavaScript (ES6+)**
+- **CSS3 / Flexbox**
+
+---
+
+## ▶️ Run Locally
+
+```bash
+git clone <repo-url>
+cd demon-slayer-cards
+npm install
+npm start
+```
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+ ├─ components/
+ │   └─ Card.jsx
+ ├─ data/
+ │   └─ characters.js
+ ├─ App.jsx
+ ├─ index.js
+ └─ styles.css
+```
+
+---
+
+## 📸 Screenshot
+
+```
+c:\Users\Rajwardhan\Pictures\Screenshots\Screenshot 2026-01-05 193415.png
+```
+
+---
+
+## 📥 Image Credits
+
+Images are sourced from publicly available references on Pinterest.  
+All characters belong to **Koyoharu Gotouge** and the Demon Slayer franchise.  
+This project is **fan-made and for learning purposes only**.
+
+---
+
+## 🌟 Future Enhancements
+
+- Search / filter characters  
+- Dark mode  
+- Animations & hover effects  
+- Click to open detailed bio modal
+- Working Download Button
+
+---
+
+## 🤝 Contributions
+
+Fork, improve, and submit a PR — suggestions are welcome.
