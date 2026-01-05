@@ -48,7 +48,7 @@ Each card shows:
 ## 🛠️ Tech Stack
 
 - **React.js**
-- **JavaScript (ES6+)**
+- **HTML**
 - **CSS3 / Flexbox**
 
 ---
@@ -81,8 +81,8 @@ src/
 ## 📥 Image Credits
 
 Images are sourced from publicly available references on Pinterest.  
-All characters belong to **Koyoharu Gotouge** and the Demon Slayer franchise.  
-This project is **fan-made and for learning purposes only**.
+All characters belong to **Demon Slayer Anime**.  
+I made this project for **learning purpose**.
 
 ---
 
@@ -98,4 +98,4 @@ This project is **fan-made and for learning purposes only**.
 
 ## 🤝 Contributions
 
-Fork, improve, and submit a PR — suggestions are welcome.
+If you have some suggestions you can tell me freely.
